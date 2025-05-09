@@ -1,5 +1,6 @@
 # Food Tracker MCP
 
+[![smithery badge](https://smithery.ai/badge/@WTTeneger/food-tracker-mcp)](https://smithery.ai/server/@WTTeneger/food-tracker-mcp)
 A Model Context Protocol (MCP) server for tracking food consumption, analyzing nutrition, and managing dietary restrictions.
 
 ## Overview
@@ -15,6 +16,14 @@ Food Tracker MCP integrates with the OpenFoodFacts database to provide a compreh
 - View food logs and nutrition summaries
 
 ## Installation
+
+### Installing via Smithery
+
+To install food-tracker-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@WTTeneger/food-tracker-mcp):
+
+```bash
+npx -y @smithery/cli install @WTTeneger/food-tracker-mcp --client claude
+```
 
 ### Prerequisites
 
